@@ -30,7 +30,7 @@ A2 (https://github.com/januszewskimar/januszewskimar.github.io) -> (https://janu
 
 A2 (https://github.com/jomaenfe/DIU)https://jomaenfe.github.io/DIU/la_madraza/default/
 
-A2 https://pedrodlz.github.io/ofra.github.io
+A2 (https://github.com/pedrodlz/ofra.github.io/) -> https://pedrodlz.github.io/ofra.github.io
 
 
 
